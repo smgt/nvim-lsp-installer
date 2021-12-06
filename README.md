@@ -175,6 +175,7 @@ lsp_installer.settings({
 | Erlang                              | `erlangls`                |
 | F#                                  | `fsautocomplete`          |
 | Fortran                             | `fortls`                  |
+| Go                                  | `golangci_lint_ls`        |
 | Go                                  | `gopls`                   |
 | GraphQL                             | `graphql`                 |
 | Groovy                              | `groovyls`                |

@@ -82,6 +82,9 @@ return {
   fsautocomplete = {
     filetypes = { "fsharp" }
   },
+  golangci_lint_ls = {
+    filetypes = { "go", "gomod" }
+  },
   gopls = {
     filetypes = { "go", "gomod" }
   },

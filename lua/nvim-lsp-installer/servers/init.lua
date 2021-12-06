@@ -58,6 +58,7 @@ local CORE_SERVERS = Data.set_of {
     "eslint",
     "fortls",
     "fsautocomplete",
+    "golangci_lint_ls",
     "gopls",
     "graphql",
     "groovyls",
